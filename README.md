@@ -14,4 +14,4 @@ Our objectives are to:
 * [Folder] plots: Dynamic plots [HTML files]
   
 ## Source of data
-BuzzFeed News github page: __[https://github.com/BuzzFeedNews/2017-09-harvey-emissions-update)__
+BuzzFeed News github page: https://github.com/BuzzFeedNews/2017-09-harvey-emissions-update
