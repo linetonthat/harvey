@@ -8,8 +8,10 @@ Our objectives are to:
 
 ## Table of contents
 * 1_Problem_description_and_EDA.ipynb [Jupyter notebook]
-* (Under construction)
+* 2_Contaminants.ipynb [Jupyter notebook]
 * largest-emissions-in-lbs.csv [CSV file]: Raw data
+
+* main_findings.pdf [PDF file]: Visualisations of the main findings
 * [Folder] img: Includes summary maps
 * [Folder] plots: Dynamic plots [HTML files]
   
